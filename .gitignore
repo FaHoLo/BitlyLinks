@@ -114,4 +114,4 @@ dmypy.json
 .pyre/
 
 # Vscode
-/.vscode
+.vscode
